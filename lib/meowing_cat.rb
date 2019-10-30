@@ -1,6 +1,6 @@
-class Cat(name)
+class Cat
   def name=(name)
-  @maru = name
+  @maru.name
   end 
   def name
     @maru

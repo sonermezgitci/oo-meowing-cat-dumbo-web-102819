@@ -1,4 +1,4 @@
-def Cat 
+class Cat 
   def name=(name)
   @name = maru
   end 

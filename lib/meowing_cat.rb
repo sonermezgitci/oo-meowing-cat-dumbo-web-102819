@@ -3,6 +3,6 @@ class Cat
   @maru=name
   end 
   def name
-    @maru
+    @maru.accessor:name
   end 
 end

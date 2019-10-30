@@ -6,3 +6,4 @@ def Cat
     @maru
   end 
 end
+end

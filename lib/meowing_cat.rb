@@ -1,1 +1,3 @@
-def cat 
+def Cat 
+  maru = Cat.new
+end 

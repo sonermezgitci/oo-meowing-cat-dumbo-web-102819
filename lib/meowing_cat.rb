@@ -1,8 +1,10 @@
 class Cat
   def name=(name)
-  @maru=name
+  @maru = name
   end 
+  
   def name
-    @maru.accessor:name
+    @maru
   end 
+
 end

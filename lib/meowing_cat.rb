@@ -1,8 +1,8 @@
 def Cat 
   def name=(name)
-  @maru = name
+  @name = maru
   end 
   def name
-    @maru
+    @name
   end 
 end

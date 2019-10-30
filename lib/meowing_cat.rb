@@ -1,3 +1,4 @@
 def Cat 
-  maru = Cat.new
+  def name=(name)
+  @maru = name
 end 
